@@ -1,0 +1,1 @@
+pyinstaller -F -w -i "download.ico" --onefile --paths="C:\Users\Alena\PycharmProjects\compressing\venv\lib\site-packages\cv2" compressor.py
